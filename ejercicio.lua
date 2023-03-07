@@ -1,0 +1,2 @@
+auto = moto
+print(auto)
